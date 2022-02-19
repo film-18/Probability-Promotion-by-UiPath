@@ -22,14 +22,16 @@ To Find Count of possibity customer get gift by promotion
  |    Find customer pass condition and Creat EXCEL file   |
  |    Calculator of possibilities by python Create JSON
  Send 2 file at gmail (Files: Customer pass condition and Possibility customer get gift of promotion)   |
+ 
  When customer confirm to accept gift, process will calculate to find static payment of office
+ 
  |     Process 2  |
  | ---------------|
  |    Get file at gmail (Count and detail of customer get gift)   |
  |    Calculator of cost and create PDF files  |
  |    Send PDF file at gmail (Files : Static payment)   |
  
-If Condition of promotion will change you must to edit python file
+### If Condition of promotion will change you must to edit python file 
 Python file has follow by conditon.xlsx file in our project only:)
 
 # Video Present : 
